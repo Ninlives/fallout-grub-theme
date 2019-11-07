@@ -27,7 +27,7 @@ terminal-border: "0"
 # Countdown message
 + label {
   left = 0
-  top = 92%-70
+  top = 90%-72
   width = 100%
   align = "center"
   id = "__timeout__"
@@ -57,7 +57,7 @@ terminal-border: "0"
 # Navigation keys hint 
 + label {
   left = 0
-  top = 92%-30
+  top = 90%
   width = 100%
   align = "center"
   # DE
