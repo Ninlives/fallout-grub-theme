@@ -27,14 +27,14 @@ terminal-border: "0"
 # Countdown message
 + label {
   left = 0
-  top = 95%-70
+  top = 92%-70
   width = 100%
   align = "center"
   id = "__timeout__"
   # DE
   # text = "Start in %d Sekunden."
   # EN
-  text = "Booting in %d seconds"
+  text = "Launch in %d seconds"
   # ES
   # text = "Arranque en %d segundos"
   # FR
@@ -57,13 +57,13 @@ terminal-border: "0"
 # Navigation keys hint 
 + label {
   left = 0
-  top = 98%-30
+  top = 92%-30
   width = 100%
   align = "center"
   # DE
   # text = "System mit ↑ und ↓ auswählen und mit Enter bestätigen."
   # EN
-  text = "Use ↑ and ↓ keys to change selection, Enter to confirm"
+  text = "PLEASE STAND BY"
   # ES
   # text = "Use las teclas ↑ y ↓ para cambiar la selección, Enter para confirmar"
   # FR
